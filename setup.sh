@@ -95,7 +95,7 @@ fi
 echo ""
 echo "5. Setting up Neovim configuration..."
 NVIM_CONFIG_DIR="$HOME/.config/nvim"
-NVIM_REPO="http://10.206.16.11/keisuke.edo/config-nvim.git"
+NVIM_REPO="https://github.com/joannefornet/config-nvim.git"
 
 mkdir -p "$HOME/.config"
 

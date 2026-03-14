@@ -21,6 +21,3 @@ Thumbs.db
 *.pem
 *.key
 id_rsa*
-
-.10k.zsh
-.p10k.zsh
